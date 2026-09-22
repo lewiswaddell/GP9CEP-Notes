@@ -1,0 +1,195 @@
+---
+title: "Group 9 CEP x RKR: Project Notes"
+author: "Luis Ahumada, Spencer Conway, Carmen Jimenez Rodriguez, Leeann Lewis-Waddell, Georgia Monjarrez"
+date: today
+format:
+  html:
+    toc: true
+    toc-depth: 4
+    toc-expand: true
+    number-sections: true
+    code-link: true
+    code-overflow: wrap
+    code-tools: true
+    embed-resources: true
+    theme: cosmo
+editor: visual
+execute:
+  freeze: auto
+---
+
+# Sept. 17 - RKR Kick off Meeting
+
+## Notes
+
+### To Do's
+
+- **Re-Do server survey**
+
+- **Potential focus group**
+
+- **Potential IRB**
+
+- **social media data**
+
+  - GA4 needs department approval
+
+- **Content management system**
+
+### Channels
+
+- [RKR Instagram](https://www.instagram.com/rkr_cpp/)
+
+- [RKR Facebook](https://www.facebook.com/RKRanch/)
+
+- [RKR Website](https://www.cpp.edu/rkr/)
+
+- [Collins Concierge](https://cppcollins.my.canva.site/the-collins-concierge-29)
+
+- Kwok Personal
+
+  - [Website](https://www.linchikwok.net/)
+
+  - [YouTube](https://www.youtube.com/@DrKwok)
+
+  - [Facebook](https://www.facebook.com/DrKwok)
+
+### About
+
+- college + restaurant = integrated, polytechnic experience
+
+  - lab learning experience
+
+    - bonding, hands-on experience
+
+  - tuesday, thursday student run - morning + afternoon
+
+    - executive chef is full time with own channel
+
+    - easier to arrange activity
+
+      - instructor teaching lecture + lab
+
+    - takes meal cards
+
+    - has open table data separate from enrollment side
+
+- **test content strategy for different audiences and channel**
+
+- **each objective on a specific strategy/marketing mix component**
+
+- quantifiable measurement; okay to make mistakes
+
+### Points of Contact
+
+- Carolina Sanchez - Student Services Coordinator
+
+- Taylor Uster - Marketing Communications Specialist
+
+  - has access to social accounts and data
+
+  - indirect work with RKR
+
+  - *Collins Concierge* is the weekly email newsletter
+
+    - they ran a survey to gage interest
+
+    - weekly emails to student
+
+- how to get students more active and engaged
+
+- Dr. Kwok → Collins College Chair
+
+  - SEO? SEM? AI? Budget is available but more keen on organic content
+
+- likely working with Ken Dokko - Lecturer/Host
+
+  - FOH, survey grading
+
+    - Survey needs to be reviewed nightly at end of class/service
+
+    - makes QR code difficult? would need to be readily accessible
+
+- June manages RKR IG
+
+### Points of Import
+
+- Enrollment data in Tableau
+
+  - external & internal acquisition priority
+
+- **create content calendar/strategy NOW**
+
+  - Fall & Spring
+
+  - share all events upcoming
+
+  - interview students, instuctors, dishes, recipes, ingredient sourcing with college of agriculture (cross posting with college of agriculute and farm store and collins college)
+
+- **survey is only mwf - switch to QR code?**
+
+  - IRB + satisfaction survey
+
+  - printed on receipts? or a table topper + incentive (complimentary)
+
+- **data analysis + hypothesis testing in spring**
+
+  - test content strategy (which is most eeffective)
+
+- summer is focused on finalizing testing and developing testing
+
+  - RKR is 100% staff, no students
+
+- **they have a 3D food printer - chocolate foundery**
+
+  - national chocolate day - october 28
+
+- **wine & spirit, beer & culuture class**
+
+- pineapples symbol of hospitality
+
+- **upcoming holidays & national themed days to be included in content calendar?**
+
+- **RKR \@ Hospitality Uncorked - Feb or March**
+
+  - Photography + Video Content (Lee + Nik)
+
+  - RKR caters the reception
+
+- how are they measuring performance currently?
+
+  - natively per channel/app
+
+- scholarship opportunities
+
+- **need to organize cross posting with CCHM team**
+
+- Connect to local crowd & student body thru sourcing
+
+  - Pricing
+
+- **MWF for content creation** 
+
+- Farm to table series?
+
+- Etiquette series
+
+- Food & Beverage
+
+- "Connecting Collins to Kellogg"
+
+  - Cross promotional series highlighting learn by doing
+
+- Family meal - team building and conversation series prior to service (they make it themselves)
+
+- Chef demo
+
+## Action Items for Next Meeting
+
+- Meeting IRL next 09/24,
+
+- Establish AO
+
+  - Choose channels per team member
+
+- Start planning content calendar
