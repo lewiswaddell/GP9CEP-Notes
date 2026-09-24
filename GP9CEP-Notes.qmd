@@ -20,6 +20,16 @@ execute:
 
 # Sept. 17 - RKR Kick off Meeting
 
+## Kwok Resources
+
+- [Kwok's Zoom Scheduler](https://scheduler.zoom.us/linchi-kwok-6mu0bi/office-hours)
+
+  - lkwok\@cpp.edu
+
+- [Proposal Doc](https://livecsupomona-my.sharepoint.com/:w:/r/personal/jmjung_cpp_edu/Documents/Documents/Work/Jaemin/4.%20Teaching/MSDM/MSDM%20Projects/Project%20Proposals/2026-2027/Forum%201/P3%20-%20MSDM_CEP_RKR%20(Kwok).docx?d=wee8aa29986ca4b969be33f6869d8f0e2&csf=1&web=1&e=qqPMDj)
+
+- [Proposal Deck](https://livecsupomona-my.sharepoint.com/:p:/r/personal/jmjung_cpp_edu/Documents/Documents/Work/Jaemin/4.%20Teaching/MSDM/MSDM%20Projects/Project%20Proposals/2026-2027/Forum%201/P3%20-%20MSDM_CEP_RKR%20(Kwok).pptx?d=w7935723750bb486e9cfd2e9b12dd1b80&csf=1&web=1&e=r7a8Ro)
+
 ## Notes
 
 ### To Do's
